@@ -1,4 +1,4 @@
-# Presentation Slide Outline (English)
+# Presentation Slide Outline
 
 ## Slide 1 - Project Title
 

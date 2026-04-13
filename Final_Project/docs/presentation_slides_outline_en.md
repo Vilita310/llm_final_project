@@ -64,7 +64,7 @@
 - Small final gap + smooth decline -> better generalization
 - Diverging gap -> potential overfitting
 
-## Slide 10 - Why Jing_Cao Performed Best
+## Slide 10 - Why Jing_Cao‘s Setting Performed Best
 
 - Moderate LR avoids unstable updates
 - Batch size 8 likely gives smoother gradient estimates

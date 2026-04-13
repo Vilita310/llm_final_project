@@ -1,0 +1,10 @@
+﻿model_set,file,sheet,total_cases,before_correct,after_correct,before_acc_pct,after_acc_pct,delta_correct,delta_acc_pct,wrong_to_correct,correct_to_wrong
+Jing_Cao,outputs/jing/Test_Data_Jing_Cao.xlsx,NewSamples,20,5,6,25.0,30.0,1,5.0,1,0
+Jing_Cao,outputs/jing/Test_Data_Jing_Cao.xlsx,FineTunedSamples,20,11,14,55.0,70.0,3,15.0,3,0
+ShihJu_Fu,outputs/shihju/Test_Data_ShihJu_Fu.xlsx,NewSamples,20,6,6,30.0,30.0,0,0.0,1,1
+ShihJu_Fu,outputs/shihju/Test_Data_ShihJu_Fu.xlsx,FineTunedSamples,20,12,12,60.0,60.0,0,0.0,0,0
+Yuting_Bu,outputs/yuting/Test_Data_Yuting.xlsx,NewSamples,22,4,5,18.18,22.73,1,4.55,2,1
+Yuting_Bu,outputs/yuting/Test_Data_Yuting.xlsx,FineTunedSamples,22,12,14,54.55,63.64,2,9.09,3,1
+Jing_Cao,outputs/jing/Test_Data_Jing_Cao.xlsx,Combined,40,16,20,40.0,50.0,4,10.0,4,0
+ShihJu_Fu,outputs/shihju/Test_Data_ShihJu_Fu.xlsx,Combined,40,18,18,45.0,45.0,0,0.0,1,1
+Yuting_Bu,outputs/yuting/Test_Data_Yuting.xlsx,Combined,44,16,19,36.36,43.18,3,6.82,5,2
